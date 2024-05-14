@@ -1,4 +1,4 @@
-**ListenTheBest Music Player**
+# ListenTheBest Music Player 
 
 Welcome to ListenTheBest Music Player, a sophisticated web application designed to provide users with a seamless music listening experience. With its intuitive user interface and dynamic functionality, ListenTheBest redefines the way users interact with their favorite music.
 
@@ -12,8 +12,8 @@ Welcome to ListenTheBest Music Player, a sophisticated web application designed 
 
 **Technologies Used:**
 
--HTML5
+- HTML5
 
--CSS3
+- CSS3
 
--JavaScript
+- JavaScript
